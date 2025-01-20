@@ -86,6 +86,8 @@ int main() {
                     }
                 }
             }
+
+            liczba_samochodow -= 1;
         }
 
         if (opcja == 3) {
